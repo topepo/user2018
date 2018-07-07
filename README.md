@@ -10,7 +10,7 @@ The materials will be added a few days before the tutorial. To install the requi
 
 ```r
 install.packages(
-  c('AmesHousing', 'broom', 'recipes', 'rsample', 'tidyverse', 'yardstick'), 
+  c('AmesHousing', 'broom', 'kknn', 'recipes', 'rsample', 'tidyverse', 'yardstick'), 
   repos = "http://cran.r-project.org"
 )
 
